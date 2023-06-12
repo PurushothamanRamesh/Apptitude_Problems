@@ -1,0 +1,284 @@
+1. To find the speeds of the trains, let's assume the speed of the slower train is x m/s and the speed of the faster train is y m/s.
+
+When they run in the same direction:
+Relative speed = (y - x) m/s
+Distance = length of slower train + length of faster train = 125 + 115 = 240 meters
+Time = 30 seconds
+
+Using the formula: Distance = Speed × Time,
+240 = (y - x) × 30
+
+When they run in the opposite direction:
+Relative speed = (y + x) m/s
+Distance = length of slower train + length of faster train = 125 + 115 = 240 meters
+Time = 10 seconds
+
+Using the formula: Distance = Speed × Time,
+240 = (y + x) × 10
+
+Now we have a system of equations:
+
+240 = 30(y - x)    ---(1)
+240 = 10(y + x)    ---(2)
+
+Solving these equations will give us the values of x and y, representing the speeds of the trains.
+
+Let's solve the equations:
+From equation (2), we get:
+y + x = 24     ---(3)    [dividing both sides by 10]
+
+From equation (1), we get:
+y - x = 8     ---(4)    [dividing both sides by 30]
+
+Adding equations (3) and (4):
+2y = 32
+y = 16
+
+Substituting the value of y in equation (3):
+16 + x = 24
+x = 8
+
+Therefore, the speeds of the trains are:
+Slower train speed = 8 m/s
+Faster train speed = 16 m/s
+
+So, the answer is (8, 16).
+
+2. To find the time taken for the trains to cross each other, we can use the concept of relative speed.
+
+The speed of the first train = 50 km/hr = (50 × 5/18) m/s = 250/18 m/s
+The speed of the second train = 60 km/hr = (60 × 5/18) m/s = 300/18 m/s
+
+Let's assume the time taken for the trains to cross each other is t seconds.
+
+When two trains move towards each other, their relative speed is the sum of their individual speeds.
+
+Relative speed = (250/18 + 300/18) m/s = 550/18 m/s
+
+The distance to be covered is the sum of the lengths of the trains.
+
+Distance = length of first train + length of second train = 140 + 166 = 306 meters
+
+Using the formula: Distance = Speed × Time,
+306 = (550/18) × t
+
+Solving for t, we get:
+t = (306 × 18)/(550)
+t = 10.08 seconds
+
+Rounding it to the nearest whole number, the time taken for the trains to cross each other is approximately 10 seconds.
+
+Therefore, the answer is (D) 10 seconds.
+
+3. Let's assume the speeds of the trains are x m/s and y m/s, and the length of the platform is P meters.
+
+When the trains run in opposite directions:
+Relative speed = x + y m/s
+Distance = length of train 1 + length of train 2 + length of platform = 36 + 26 + P meters
+Time = 30 seconds
+
+Using the formula: Distance = Speed × Time,
+36 + 26 + P = (x + y) × 30    ---(1)
+
+When the trains cross each other:
+Relative speed = x + y m/s
+Distance = length of train
+
+ 1 + length of train 2 = 36 + 26 = 62 meters
+Time = 30 seconds
+
+Using the formula: Distance = Speed × Time,
+62 = (x + y) × 30    ---(2)
+
+Dividing equation (1) by equation (2):
+(36 + 26 + P)/62 = (x + y) × 30/(x + y) × 30
+(36 + 26 + P)/62 = 1
+
+Simplifying,
+62 + P = 62
+P = 0
+
+The length of the platform is 0 meters, which doesn't make sense. It seems there might be an error in the problem statement or calculations.
+
+Therefore, the ratio of their speeds cannot be determined with the given information.
+
+The answer is None.
+
+4. To find the time taken to cross the platform, we need to calculate the speed of the train first.
+
+The speed of the train = distance/time
+Given that the length of the train is 240 meters and it crosses a pole in 12 seconds, we can calculate the speed:
+
+Speed = 240/12 = 20 m/s
+
+Now, we need to find the time taken to cross a platform of length 400 meters.
+
+The distance to be covered is the sum of the length of the train and the length of the platform: 240 + 400 = 640 meters
+
+Using the formula: Time = Distance/Speed,
+Time = 640/20 = 32 seconds
+
+Therefore, the train will cross the platform in 32 seconds.
+
+The answer is (None of the above).
+
+5. Let's assume the length of the train is L meters and the length of the platform is P meters.
+
+Given:
+Speed of the train = 108 km/hr = (108 × 5/18) m/s = 30 m/s
+Speed of the man = 12 km/hr = (12 × 5/18) m/s = 10/3 m/s
+
+When the train crosses the platform:
+Distance = length of train + length of platform = L + P meters
+Time = 30 seconds
+
+Using the formula: Distance = Speed × Time,
+L + P = 30 × 30    ---(1)
+
+When the train crosses the man:
+Relative speed = train speed - man speed = 30 - 10/3 = (80/3) m/s
+Distance = length of train = L meters
+Time = 9 seconds
+
+Using the formula: Distance = Speed × Time,
+L = (80/3) × 9    ---(2)
+
+Dividing equation (2) by equation (1):
+L/30 = (80/3) × 9/900
+L = (80/3) × 9 × 30/900
+L = 80/3
+
+Substituting the value of L in equation (1):
+80/3 + P = 30 × 30
+P = 900 - 80/3
+P = 740/3
+
+Therefore, the length of the train is 80/3 meters and the length of the platform is 740/3 meters.
+
+The answer is (None of the above).
+
+6. Let's assume the distance between the two stations is D km.
+
+Given:
+Speed of the first train = 40 km/hr = (40 × 5/18) m/s = 100/9 m/s
+Speed of the second train = 45 km/hr = (45 × 5/18) m/s = 25/2 m/s
+
+When the trains meet, the second train from station Q has covered 20 km more distance than the first train from station P.
+
+Let the distance covered by the first train
+
+ from station P be X km.
+Then, the distance covered by the second train from station Q = (X + 20) km.
+
+Using the formula: Time = Distance/Speed,
+Time taken by the first train = X/(100/9) = 9X/100
+Time taken by the second train = (X + 20)/(25/2) = 2(X + 20)/25
+
+Since they meet at the same time, their time taken will be equal:
+9X/100 = 2(X + 20)/25
+
+Solving for X, we get:
+225X = 200(X + 20)
+225X = 200X + 4000
+25X = 4000
+X = 160
+
+The distance between the two stations (D) is equal to the distance covered by the first train (X) plus the 20 km extra covered by the second train:
+D = X + 20 = 160 + 20 = 180 km
+
+Therefore, the distance between the two stations is 180 km.
+
+The answer is (C) 340 km.
+
+7. Let's assume the speeds of the trains are x m/s and y m/s.
+
+When the trains cross a man standing on the platform:
+Relative speed = x + y m/s
+Time = 28 seconds
+
+Using the formula: Speed = Distance/Time,
+Speed of the first train = Distance/28 = D/28 meters/second
+
+When the trains cross each other:
+Relative speed = x + y m/s
+Time = 26 seconds
+
+Using the formula: Speed = Distance/Time,
+Speed of the first train = Distance/26 = D/26 meters/second
+
+Since the distances covered in both cases are the same, we have:
+D/28 = D/26
+
+Solving for D, we get:
+26D = 28D
+2D = 0
+
+The distance cannot be 0, which means there might be an error in the problem statement or calculations.
+
+Therefore, the ratio of their speeds cannot be determined with the given information.
+
+The answer is None.
+
+8. Let's assume the speeds of the trains are x km/hr and y km/hr.
+
+Given:
+Time taken by the first train = 9 hours
+Time taken by the second train = 16 hours
+
+Let the distances traveled by the first and second trains be D1 km and D2 km, respectively.
+
+Using the formula: Distance = Speed × Time,
+D1 = x × 9
+D2 = y × 16
+
+The ratio of their speeds is:
+x/y = D1/D2 = (x × 9)/(y × 16)
+
+Simplifying the equation, we get:
+16x = 9y
+
+Therefore, the ratio of their speeds is 16:9.
+
+The answer is (D) 9:16.
+
+9. Let's assume the speed of the train is x km/hr.
+
+Given:
+Distance covered to cross a telegraph post = 264 meters
+Time taken = 8 seconds
+
+Using the formula: Speed = Distance/Time,
+x = 264/8 = 33 meters/second
+
+Converting the speed to km/hr:
+x = 33 × 18/5 = 118.8 km/hr
+
+Therefore, the speed of the train is approximately 118.8 km/hr.
+
+The answer is (None of the above).
+
+10. Let's assume the length of each train is L meters.
+
+Given:
+The first train crosses a pole in 18 seconds.
+The second train crosses a pole in 12 seconds.
+
+Using the formula: Speed = Distance/Time,
+Speed of the first train = L/18 m/s
+Speed of the second train = L/
+
+12 m/s
+
+Given that the second train is 50% faster than the first train, we can write the equation:
+
+Speed of the second train = 1.5 × Speed of the first train
+L/12 = 1.5 × (L/18)
+
+Simplifying the equation, we get:
+L/12 = L/12
+
+The equation holds true for any length of the train (L).
+
+Therefore, the length of the train cannot be determined with the given information.
+
+The answer is (None of the above).
